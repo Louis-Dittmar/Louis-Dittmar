@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Louis.
+My name is Louis Dittmar.
 
 I love programming, and I am very much interested in java and HTML.
 
