@@ -21,6 +21,6 @@ I love programming, and I am very much interested in java and HTML.
 
 # Stats:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LouisSpielt&langs_count=12&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Louis-Dittmar&langs_count=12&theme=dark&show_icons=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LouisSpielt&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Louis-Dittmart&theme=dark&show_icons=true)
