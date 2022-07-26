@@ -3,13 +3,16 @@
 
 # Notable Projects:
 
+> ## Website - Computerservice
+>This website was created for a small computer service in Coburg, for which I sometimes help out with small projects. We used a GitHub page to publish this project based on HTML5 Boilerplate. https://weigeltmic.github.io/IT-Computerservice-Weigelt/
+
 > ## Website
-> A collection of all the websites I've created so far and will be creating. The main page is not currently finished.
+> A collection of all the websites I've created so far and will be creating. Unfortunately the main page is not currently finished.
 > However, I am currently working on finishing this website.
 > https://louis-dittmar.github.io/Website/
 
 > ## Passwort Generator
-> A password generator that I created to test how to work with J-Frames. This one works but it's very simple.The project was created entirely in Java.
+> A password generator that I created to test how to work with J-Frames. This one works but it's very simple. The project was created entirely in Java.
 
 > ## MyCommands & BetterCommands
 >These projects are for plugins that I have made for Minecraft Servers. There are two versions of the plugin with small variations in functionality and what commands it uses.
